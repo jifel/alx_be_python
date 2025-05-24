@@ -1,7 +1,7 @@
 # a script that asks user for their current age and then calculates how old they will be in a specific year
 
 #asks user for their age
-current_age = int(input("How old are you?: "))
+current_age = int(input("How old are you?"))
 
 
 #calculation of their future age
